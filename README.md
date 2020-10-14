@@ -5,9 +5,7 @@
   <h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="0.jpg" />
 </h1>
- <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
+
 <p align="center">🚀 Meu Primeiro Jogo Utilizando Jquery</p>
  
  <h4 align="center"> 
