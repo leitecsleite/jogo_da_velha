@@ -3,7 +3,7 @@
  
  <h1 align="center">Jogo da Velha</h1>
   <h1 align="center">
-  <img alt="" title="" src="Banner.jpg" />
+  <img alt="" title="" src="banner.png" />
 </h1>
 
 <p align="center">🚀 Meu Primeiro Jogo Utilizando Jquery</p>
