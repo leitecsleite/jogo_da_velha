@@ -1,2 +1,15 @@
 # jogo_da_velha
- Meu primeiro Jogo utilizando JQuery 
+
+ 
+ <h1 align="center">Jogo da Velha</h1>
+  <h1 align="center">
+  <img alt="" title="" src="0.jpg" />
+</h1>
+
+<p align="center">🚀 Meu Primeiro Jogo Utilizando Jquery</p>
+ 
+ <h4 align="center"> 
+  Projeto Finalizado
+</h4>
+
+
